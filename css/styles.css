@@ -1,0 +1,37 @@
+a {
+    color: #324352;
+    font-weight: bold;
+    text-decoration: none;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+input{
+    margin: 10px 0;
+    padding: 10px;
+    border: unset;
+    border-bottom: 2px solid #e3e3e3;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    font-family: Times New Roman, sans-serif;
+    justify-content: center;
+}
+
+.ava {
+    width: 60px;
+    height: 60px;
+}
+
+.photo {
+    width: 600px;
+    height: 600px;
+}
+
+
+
